@@ -37,7 +37,7 @@ tqdm
 
 ### 1. 初始化 & 加载数据
 ```python
-from pipeline import CreditModelPipeline
+from src.model import CreditModelPipeline
 
 pipeline = CreditModelPipeline(
     train_path="train.csv",
