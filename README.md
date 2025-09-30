@@ -1,5 +1,8 @@
 # CreditPredictionAlgorithm (CPA)
 
+
+<img src="./assert/pipline.png" alt="pipeline" width="600" />
+
 **CPA** 是一个用于 **贷款违约预测** 的机器学习算法封装工具。  
 它基于 `scikit-learn`、`xgboost` 等框架，支持多种分类算法，提供了统一的训练、保存、加载和预测接口。  
 
